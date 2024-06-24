@@ -11,7 +11,8 @@
 - **Backend:** Next Js
 - **Database:** Postgres DB
 
-
+## Video Demonstration
+   [![Watch the video](https://cdn.loom.com/sessions/thumbnails/5dc38d0c01164ffa8e64f3062f3385d0-with-play.gif)](https://www.loom.com/share/5dc38d0c01164ffa8e64f3062f3385d0?sid=9d097f30-e8a8-41ae-825d-b230a9d407c5)
 
 
 ## Setup and Contributions Guidelines
